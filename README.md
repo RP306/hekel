@@ -24,7 +24,7 @@
 $ apt update && pkg upgrade -y
 $ apt install python2 -y
 $ apt install git -y
-$ git clone git clone https://github.com/rumxyz/hekel
+$ git clone https://github.com/rumxyz/hekel
 ```
 
 ## Run script
